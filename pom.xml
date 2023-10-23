@@ -28,7 +28,15 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 	</properties>
-
+	
+	<repositories>
+     		<repository>
+     		<id>nexus</id>
+      		<name>Proxy Repo</name>
+      		<url>http://100.26.247.159:8081/repository/Paypal-fintech/</url>
+      		</repository>
+    	</repositories>
+	
 	<dependencies>
 		
 		<dependency>
