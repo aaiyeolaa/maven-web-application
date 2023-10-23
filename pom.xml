@@ -33,7 +33,7 @@
      		<repository>
      		<id>nexus</id>
       		<name>Proxy Repo</name>
-      		<url>http://100.26.247.159:8081/repository/Paypal-fintech/</url>
+      		<url>http://100.26.247.159:8081/repository/maven-central/</url>
       		</repository>
     	</repositories>
 	
